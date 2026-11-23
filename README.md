@@ -1,7 +1,8 @@
 # Camden Food Assistance Location Planning Platform
 
-An educational decision-support prototype developed collaboratively
+A decision-support prototype developed collaboratively
 through the Rutgers-Camden AI Campus AI/ML Cohort.
+https://camdenfoodassistancetool.streamlit.app/
 
 ## Research question
 
@@ -11,7 +12,7 @@ and would therefore warrant investigation for additional assistance?
 
 ## Decision Dashboard
 
-The dashboard allows users to:
+The dashboard (https://camdenfoodassistancetool.streamlit.app/) allows users to:
 
 - Explore need, access, outreach and relative-gap measures.
 - View included food-assistance service records.
