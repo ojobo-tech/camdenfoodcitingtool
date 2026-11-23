@@ -1,10 +1,6 @@
 
 
-# ------------------------------------------------------------
-# README.md
-# ------------------------------------------------------------
-
-readme = """# Camden Food Assistance Location Planning Platform
+##Camden Food Assistance Location Planning Platform
 
 An educational decision-support prototype developed collaboratively
 through the Rutgers-Camden AI Campus AI/ML Cohort.
