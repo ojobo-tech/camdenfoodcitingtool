@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 APP_DIR = Path(__file__).resolve().parent
-DATA_DIR = APP_DIR / "data"
+DATA_DIR = APP_DIR
 
 st.markdown(
     """
